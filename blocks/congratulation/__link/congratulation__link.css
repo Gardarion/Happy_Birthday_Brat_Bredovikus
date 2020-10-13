@@ -1,0 +1,31 @@
+.congratulation__link {
+  width: 900px;
+  font-size: 25px;
+  color: rgb(206, 206, 206);
+  text-decoration: none;
+  text-align: left;
+}
+@media screen and (max-width: 1279px) {
+  .congratulation__link {
+    width: 800px;
+    font-size: 23px;
+  }
+ }
+@media screen and (max-width: 1023px) {
+  .congratulation__link {
+    width: 700px;
+    font-size: 20px;
+  }
+ }
+ @media screen and (max-width: 767px) {
+  .congratulation__link {
+    width: 450px;
+    font-size: 15px;
+  }
+ }
+ @media screen and (max-width: 479px) {
+  .congratulation__link {
+    width: 300px;
+    font-size: 10px;
+  }
+ }
