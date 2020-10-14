@@ -1,0 +1,33 @@
+.congratulation__iframe {
+    width: 750px;
+    height: 600px;
+    border: none;
+    margin: 40px 0;
+  }
+  @media screen and (max-width: 1279px) {
+    .congratulation__iframe {
+    }
+   }
+  @media screen and (max-width: 1023px) {
+    .congratulation__iframe {
+      width: 700px;
+      height: 600px;
+    }
+   }
+   @media screen and (max-width: 767px) {
+    .congratulation__iframe {
+      width: 450px;
+    }
+   }
+   @media screen and (max-width: 479px) {
+    .congratulation__iframe {
+      width: 338px;
+      height: 300px;
+    }
+   }
+   @media screen and (max-width: 337px) {
+    .congratulation__iframe {
+      width: 320px;
+      height: 300px;
+    }
+   }

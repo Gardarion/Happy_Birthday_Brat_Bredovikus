@@ -1,0 +1,26 @@
+.grid-kvest__next {
+  grid-area: next;
+  text-align: end;
+  font-size: 25px;
+  color: rgb(206, 206, 206);
+  }
+@media screen and (max-width: 1279px) {
+  .grid-kvest__next {
+    font-size: 23px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .grid-kvest__next {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .grid-kvest__next {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .grid-kvest__next {
+    font-size: 10px;
+  }
+}
