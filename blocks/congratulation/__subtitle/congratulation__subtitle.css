@@ -1,25 +1,31 @@
 .congratulation__subtitle {
   margin: 0;
   font-size: 25px;
-  color: rgb(206, 206, 206);
+  text-align: center;
+  color: rgb(260, 260, 260) ;
+  width: 900px;
 }
 @media screen and (max-width: 1279px) {
   .congratulation__subtitle {
+    width: 800px;
     font-size: 23px;
   }
  }
 @media screen and (max-width: 1023px) {
   .congratulation__subtitle {
+    width: 700px;
     font-size: 20px;
   }
  }
  @media screen and (max-width: 767px) {
   .congratulation__subtitle {
+    width: 450px;
     font-size: 15px;
   }
  }
  @media screen and (max-width: 479px) {
   .congratulation__subtitle {
+    width: 300px;
     font-size: 10px;
   }
  }
