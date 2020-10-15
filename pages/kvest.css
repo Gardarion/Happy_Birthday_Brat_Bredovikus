@@ -4,8 +4,12 @@
 @import url(../blocks/congratulation/congratulation.css);
 @import url(../blocks/congratulation/__title/congratulation__title.css);
 @import url(../blocks/congratulation/__subtitle/congratulation__subtitle.css);
+@import url(../blocks/congratulation/__image/congratulation__image.css);
+@import url(../blocks/congratulation/__image/_real/congratulation__image_real.css);
 @import url(../blocks/grid-kvest/grid-kvest.css);
 @import url(../blocks/grid-kvest/__image/grid-kvest__image.css);
+@import url(../blocks/grid-kvest/__iframe/grid-kvest__iframe.css);
 @import url(../blocks/grid-kvest/__back/grid-kvest__back.css);
 @import url(../blocks/grid-kvest/__next/grid-kvest__next.css);
+@import url(../blocks/congratulation/__start-link/congratulation__start-link.css);
 @import url(../blocks/congratulation/__link/congratulation__link.css);

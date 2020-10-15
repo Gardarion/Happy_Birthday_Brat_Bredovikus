@@ -22,12 +22,11 @@
    @media screen and (max-width: 479px) {
     .congratulation__iframe {
       width: 338px;
-      height: 300px;
+      height: 500px;
     }
    }
    @media screen and (max-width: 337px) {
     .congratulation__iframe {
       width: 320px;
-      height: 300px;
     }
    }

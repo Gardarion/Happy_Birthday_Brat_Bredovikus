@@ -7,8 +7,9 @@ var dvas = "НОРМАЛЬНЫЙ БРАТ";
 var dddd = "НОРМАЛЬНЫЙ БРАТ!";
 var vvvv = "Нормальный брат!";
 var aaaa = "Нормальный брат";
-var kras = "Тест";
-var vras = "Квест";
+var kras = "БредоТест";
+var vras = "Тёмный лес";
+var rrrr = "Темный лес";
 var urod = "Пароль неверный! Штизебрат?";
 if(code==asap)
 {location.href="coderavengray.html";}
@@ -22,7 +23,7 @@ else{
 if(code==kras)
 {location.href="opros.html";}
 else{
-if(code==vras)
+if(code==vras || code==rrrr)
 {location.href="kvest.html";}
 else{
   alert(urod);}

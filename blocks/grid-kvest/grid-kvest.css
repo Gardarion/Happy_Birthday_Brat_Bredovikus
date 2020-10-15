@@ -1,8 +1,8 @@
 .grid-kvest {
   margin: 20px 0;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr) 40px;
+  grid-template-columns: repeat(2, min-content);
+  grid-template-rows: repeat(3,  min-content);
   gap: 10px 0;
   grid-template-areas:
   "image image"
